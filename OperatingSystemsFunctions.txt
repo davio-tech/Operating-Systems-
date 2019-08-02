@@ -1,0 +1,1 @@
+One operating systems function is the processor management which determines how much time and power is spent on each computer process. For example when opening a word document it could cause other processes to run in the background of the computer, so the processor management determines the inportance of each one giving it enough power to run
